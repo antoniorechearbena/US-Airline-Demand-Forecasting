@@ -1,5 +1,4 @@
 # US-Airline-Demand-Forecasting
-# US Airline Demand Forecasting
 
 Machine learning project focused on forecasting passenger traffic across US domestic airline routes using historical data from the Bureau of Transportation Statistics (BTS).
 

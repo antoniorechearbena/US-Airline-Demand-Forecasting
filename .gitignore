@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Airline forecasting datasets
+data/raw/
+data/processed/
+data/interim/
+
+# Generated model artifacts
+models/artifacts/
+
+# Operating system files
+.DS_Store
